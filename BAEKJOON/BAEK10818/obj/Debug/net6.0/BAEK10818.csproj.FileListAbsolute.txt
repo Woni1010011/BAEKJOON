@@ -1,0 +1,15 @@
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\bin\Debug\net6.0\BAEK10818.exe
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\bin\Debug\net6.0\BAEK10818.deps.json
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\bin\Debug\net6.0\BAEK10818.runtimeconfig.json
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\bin\Debug\net6.0\BAEK10818.dll
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\bin\Debug\net6.0\BAEK10818.pdb
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.csproj.AssemblyReference.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.AssemblyInfoInputs.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.AssemblyInfo.cs
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.csproj.CoreCompileInputs.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.dll
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\refint\BAEK10818.dll
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.pdb
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\BAEK10818.genruntimeconfig.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10818\obj\Debug\net6.0\ref\BAEK10818.dll

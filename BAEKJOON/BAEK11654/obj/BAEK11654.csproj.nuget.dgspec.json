@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\XR_PC_06\\source\\repos\\BAEKJOON\\BAEK11654\\BAEK11654.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\XR_PC_06\\source\\repos\\BAEKJOON\\BAEK11654\\BAEK11654.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\XR_PC_06\\source\\repos\\BAEKJOON\\BAEK11654\\BAEK11654.csproj",
+        "projectName": "BAEK11654",
+        "projectPath": "C:\\Users\\XR_PC_06\\source\\repos\\BAEKJOON\\BAEK11654\\BAEK11654.csproj",
+        "packagesPath": "C:\\Users\\XR_PC_06\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XR_PC_06\\source\\repos\\BAEKJOON\\BAEK11654\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XR_PC_06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

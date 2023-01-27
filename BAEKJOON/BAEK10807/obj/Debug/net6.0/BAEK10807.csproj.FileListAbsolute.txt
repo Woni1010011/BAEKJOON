@@ -1,0 +1,15 @@
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\bin\Debug\net6.0\BAEK10807.exe
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\bin\Debug\net6.0\BAEK10807.deps.json
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\bin\Debug\net6.0\BAEK10807.runtimeconfig.json
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\bin\Debug\net6.0\BAEK10807.dll
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\bin\Debug\net6.0\BAEK10807.pdb
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.csproj.AssemblyReference.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.AssemblyInfoInputs.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.AssemblyInfo.cs
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.csproj.CoreCompileInputs.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.dll
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\refint\BAEK10807.dll
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.pdb
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\BAEK10807.genruntimeconfig.cache
+C:\Users\XR_PC_06\source\repos\BAEKJOON\BAEK10807\obj\Debug\net6.0\ref\BAEK10807.dll
